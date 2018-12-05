@@ -1,4 +1,4 @@
 <?php
   $category = "SECURITY";
-  include "page_template.php";
+  include "templates/page_template.php";
 ?>
